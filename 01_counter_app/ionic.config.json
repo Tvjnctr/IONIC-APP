@@ -1,7 +1,0 @@
-{
-  "name": "01_counter_app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
